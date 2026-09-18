@@ -30,6 +30,21 @@ Soy un **Desarrollador Fullstack** apasionado por construir soluciones web escal
 
 ---
 
+### 🚀 Featured Projects
+
+- **[ninos-a-salvo](https://github.com/Acosta-Armando/ninos-a-salvo)** — Aplicación enfocada en la seguridad e información preventiva para la protección infantil después del doblete sísmico en Venezuela. ([Demo en vivo](https://ninos-a-salvo.vercel.app/))
+- **[dodge_the_creeps](https://github.com/Acosta-Armando/dodge_the_creeps)** — Juego 2D desarrollado en **Godot Engine** con GDScript, que incluye control de escenas, física de partículas y mecánicas de esquive.
+- **[frequency-distribution-of-data](https://github.com/Acosta-Armando/frequency-distribution-of-data)** — Aplicación estadística en **JavaScript/TypeScript** para el análisis, cálculo e interpretación de tablas de distribución de frecuencias e intervalos. ([Demo en vivo](https://frequency-distribution-of-data.vercel.app/))
+- **[siana-first-birthday](https://github.com/Acosta-Armando/siana-first-birthday)** — Sitio web e invitación interactiva construida con componentes visuales dinámicos y animaciones personalizadas. ([Demo en vivo](https://siana-first-birthday.vercel.app/))
+- **[the-computer-history](https://github.com/Acosta-Armando/the-computer-history)** — Proyecto web interactivo centrado en la historia y evolución tecnológica de los sistemas de cómputo. ([Demo en vivo](https://the-computer-history.vercel.app/))
+- **[react-technical-test](https://github.com/Acosta-Armando/react-technical-test)** — Demostración práctica de **React** y **TypeScript** con filtrado de datos en tiempo real, gestión de estado y buenas prácticas de arquitectura web. ([Demo en vivo](https://react-technical-test-five.vercel.app/))
+- **[grandpas-tales](https://github.com/Acosta-Armando/grandpas-tales)** — Plataforma web narrativa enfocada en la maquetación responsiva e interacción del lector con historias y cuentos. ([Demo en vivo](https://culture-project.vercel.app/stories))
+- **[odontologia.uptvalencia](https://github.com/Acosta-Armando)** — Aplicación web progresiva offline-first orientada a la gestión de citas e historias clínicas odontológicas universitarias con Next.js, Prisma ORM, IndexedDB y PostgreSQL. ([Demo en vivo](https://odontologiauptvalencia.vercel.app/))
+- **[technology-integration](https://github.com/Acosta-Armando)** — Plataforma web para la divulgación e integración tecnológica de proyectos y recursos educativos. ([Demo en vivo](https://technology-integration.vercel.app/))
+- **[Mi Carrito App](https://github.com/Acosta-Armando)** — Aplicación móvil offline-first desarrollada con React Native y Expo con persistencia local en SQLite para el seguimiento de precios.
+
+---
+
 ### 📜 Courses & Certifications
 
 - **Docker: Fundamentos** – Platzi (2025)
@@ -70,13 +85,16 @@ Soy un **Desarrollador Fullstack** apasionado por construir soluciones web escal
   </a>
 </p>
 
-#### **Backend & Databases**
+#### **Backend, Databases & Game Engines**
 <p align="left">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  </a>
+  <a href="https://godotengine.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" alt="godot" width="40" height="40"/>
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
