@@ -102,7 +102,7 @@ Soy un **Desarrollador Fullstack** apasionado por construir soluciones web escal
 #### **DevOps, AI & Tools**
 <p align="left">
   <a href="https://www.cursor.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="cursor" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_cursorrules.svg" alt="cursor" width="40" height="40"/>
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
@@ -112,5 +112,8 @@ Soy un **Desarrollador Fullstack** apasionado por construir soluciones web escal
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.vectorlogo.zone/logos/github/images/c53f393e-9094-4b00-9f76-e489cabbf2a9.svg" alt="github" width="40" height="40"/>
   </a>
 </p>
